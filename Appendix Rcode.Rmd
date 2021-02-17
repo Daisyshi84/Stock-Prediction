@@ -31,8 +31,10 @@ library(gapminder)
 library(moments) # For skewness() and kurtosis()
 
 
-
+#read data 
 GDX<- read.csv( "/Users/daisyshi/Downloads/GDX (1).csv", header = TRUE)
+
+#create a variable if price go up we name id Increase, otherwise it is Decrease.
 
 for (i in GDX){
   i<-1:nrow(GDX)
