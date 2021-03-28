@@ -208,3 +208,5 @@ ggplot(yearlyReturn(GDX),aes(x=index(yearlyReturn(GDX)),y=yearlyReturn(GDX)))+ge
 From 2013 to 2020, the daily average rise and fall of the stock was -2.67% to 2.7%, The average day trades without any profit or loss. In addition, a chart of the total number of daily gains and losses from 2015 to 2020 shows that short-term investing in this stock is not an ideal strategy.  By using the method of classification analysis, we predict that the opening price of this stock is likely to show a downward trend every day, but the difference is not obvious. So this stock is not suitable for daily trading operations. 
 
 The stock has made very good returns in 2016(more than 52% yearly return) and 2019 - 2020(more than 30% yearly return). It is on a long-term uptrend.Althought the yearly returns sheet indicate the avarage returns between 2013-2020 only 4%. But based on its long-term performance, we can judge that it is suitable for long-term holding. It is recommended that you include this stock in your portfolio as a low-risk, low-return strategy that can be used to balance your investment allocation risk.
+
+theme: jekyll-theme-tactile
